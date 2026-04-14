@@ -26,7 +26,16 @@ class UserController extends Controller
                 'name' => 'gorhta',
                 'age' => '39',
                 'role' => 'User'
+            ],
+            [
+                 'id' => 4,
+                 'name' => 'sahana',
+                 'age' => '55',
+                 'role' => 'User'
             ]
+
+
+
 
 
             ]
